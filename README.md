@@ -1,12 +1,12 @@
 # TrendingTopicsNearBy:
 
-Finding search trends based on Pincode or Area name. 
+Search Trending Topic near around you or your area or pincode. 
 
-If I input Pincode or area name
+- Enter Your area code or name.
 
 ![](Images/Input.png)
 
-then I will get top trending topics.
+- Then you will get top trending topics.
 
 ![](Images/Output.png)
 
